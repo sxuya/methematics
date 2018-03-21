@@ -8,10 +8,18 @@
 
 ![](http://latex.codecogs.com/gif.latex?\DE//BC) 
 
+![](http://latex.codecogs.com/gif.latex?\{DE//BC}) 
 
-![](http://latex.codecogs.com/gif.latex?\\DE={1\over2}BC)
+![](http://latex.codecogs.com/gif.latex?\(DE//BC)) 
 
-
-![](http://latex.codecogs.com/gif.latex?\DE//BC) 
 
 ![](http://latex.codecogs.com/gif.latex?\DE={1\over2}BC)
+
+
+![](http://latex.codecogs.com/gif.latex?\\DE//BC) 
+
+![](http://latex.codecogs.com/gif.latex?\\{DE//BC}) 
+
+![](http://latex.codecogs.com/gif.latex?\\(DE//BC) 
+
+![](http://latex.codecogs.com/gif.latex?\\DE={1\over2}BC)
