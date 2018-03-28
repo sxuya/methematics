@@ -1,0 +1,143 @@
+模版：
+中位线_证明_1
+思路：
+\\1. 倍长中线得到ΔAED≅ΔCEF
+\\2. 得到BD//CF, BD=CF
+\\3. 得\textit{▱}BCFD
+\\书写：
+\\延长DE至F，使EF=ED，
+\\连结CF
+\\\because E是AC的中点
+\\\therefore AE=CE
+\\在ΔAED与ΔCEF中
+\\
+\left\{\begin{matrix}
+AE=CE & \\
+∠1 = ∠2 & \\
+ED=EF &
+\end{matrix}\right.
+\\\therefore ΔAED≅ΔCEF(SAS)
+\\\therefore AD=CF
+\\  ∠A=∠3
+\\\therefore AB//CF
+\\即BD//CF
+\\\because D为AB的中点
+\\\therefore BD=AD
+\\\therefore BD=CF
+\\\therefore 四边形BCFD是平行四边形
+\\\therefore DF//BC, DF=BC
+\\\therefore DE//BC, DE={1\over2}BC
+\because 
+\\\therefore 
+---
+
+中位线_证明_2
+思路：
+\\1. 倍长DE
+\\2. 得到平行四边形AFCD
+\\3. 得到平行四边形BCFD
+\\书写：
+\\延长DE至F，使EF=ED
+\\连结AF、CF、CD
+\\\because E是AC的中点
+\\\therefore AE=EC
+\\又\because EF=ED
+\\\therefore 四边形AFCD为平行四边形
+\\\therefore AD=CF, AD//CF
+\\\because D为AB中点
+\\\therefore BD=AD
+\\\therefore BD//CF, BD=CF
+\\\therefore 四边形BCFD是平行四边形
+\\\therefore DF//BC, DF=BC
+\\\therefore DE//BC, DE={1\over2}BC
+
+----
+
+斜边中线
+
+\\\because ∠ABC=90°
+\\又\because BD=DC
+\\\therefore BD={1\over2}AC
+
+斜边中线证明1
+
+\\思路：
+\\1. 倍长中线得到
+\\    ΔADB≅ΔCDE
+\\2. 得到AB//CE, AB=CE
+\\3. 证明ΔABC≅ΔECB
+
+\\书写：
+\\延长BD至E使DE=DB,连结CE
+\\\because D为AC的中点
+\\\therefore AD=CD
+\\在ΔADB与ΔCDE中
+\\
+\left\{\begin{matrix}
+AD=CD & \\
+∠1 = ∠2 & \\
+DB=DE &
+\end{matrix}\right.
+\\\therefore ΔADB≅ΔCDE(SAS)
+\\\therefore AB=CE, ∠A=∠3
+\\\therefore AB//CE
+\\\because ∠ABC=90°
+\\\therefore ∠ECB=90°=∠ABC
+\\在ΔABC与ΔECB中
+\\
+\left\{\begin{matrix}
+AB=EC & \\
+∠ABC = ∠ECB & \\
+BC=CB &
+\end{matrix}\right.
+\\\therefore ΔABC≅ΔECB(SAS)
+\\\therefore AC=BE
+\\\because BD={1\over2}BE
+\\\therefore BD={1\over2}AC
+\\
+
+斜边中线_证明_2
+
+\\思路：
+\\通过矩形证明AC=BE
+\\  
+\\  
+\\书写：
+\\延长BD至E使DE=DB,连结CE、AE
+\\\because D为AC的中点
+\\\therefore AD=DC
+\\\because BD=DE
+\\\therefore 四边形ABCE是平行四边形
+\\\because ∠ABC=90°
+\\\therefore \textit{▱}ABCE是矩形
+\\\therefore AC=BE
+\\\because BD={1\over2}BE
+\\\therefore BD={1\over2}AC
+\\
+
+斜边中线证明3
+
+\\思路：
+\\构造中位线得到数量关系
+\\  
+\\  
+\\书写：
+\\取AB、BC的中点E、F,连结DE、DF
+\\设DE=x，DF=y
+\\\because D为AC的中点
+\\\therefore BC=2ED=2x
+\\	BE=DF=y
+\\	AB=2DF=2y
+\\\therefore AC=\sqrt{AB^{2}+AC{2}}
+\\	=2\sqrt{x^{2}+y{2}}
+\\because BD=\sqrt{BE^{2}+DE{2}}
+\\	=\sqrt{x^{2}+y{2}}
+\\\therefore BD={1\over2}AC
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+\\
