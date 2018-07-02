@@ -1,0 +1,61 @@
+解：\\由图像得，设函数为y=kx+b（k\neq0）\\将（0，1）、（1，5）代入\\
+得 \left \{\begin{aligned}
+1=k*0+b\\
+5=k*1+b
+\end{aligned} \right\ \\
+\therefore \left \{\begin{aligned}
+k=2\\
+b=1
+\end{aligned}\right\ \\
+\therefore 函数的解析式为y=3x
+
+解：\\
+设P为（x，0）\\
+\because P为AB的中垂线上的点\\
+\therefore AP=BP\\
+\because AP=\sqrt{(x-1)^2+(0-1)^2}=\sqrt{(x-1)^2+1}\\
+BP=\sqrt{(x-4)^2+(0-3)^2}=\sqrt{(x-4)^2+9}\\
+\therefore \sqrt{(x-1)^2+1}=\sqrt{(x-4)^2+9}\\
+解得x=23/6\\
+\\
+\\
+
+\left \{\begin{aligned}
+y=2x\\
+y=-3x+5
+\end{aligned} \right\ \\
+解得
+\left \{\begin{aligned}
+x=1\\
+y=2
+\end{aligned} \right\ \\
+\therefore 交点为（1，2）\\
+Ⅰ.当P为（3，0）时
+\\C为（3，6），D为（3，-4）
+\\\therefore CD=6-(-4)=10
+\\Ⅱ.当P为（-1，0）时
+\\C为（-1，-2），D为（-1，8）
+\\\therefore CD=8-(-2)=10
+\\Ⅲ.当P为（a，0）时
+\\C为（a，2a），D为（a，-3a+5）
+\\①当a>1时
+\\CD=2a-（-3a+5）=5a-5
+\\②当a<1时
+\\CD=-3a+5-2a=-5a+5
+\\综上所述
+\\CD=\left \{\begin{aligned}
+5a-5	（a>1）\\
+-5a+a	（a<1）
+\end{aligned} \right\ \\
+\\
+
+
+\\当a>-1时
+\\E为({{(5\sqrt{3}+2)a+5\sqrt{3}）}\over{2}},{{a-5}\over{2}})
+\\当a<-1时
+\\E为({{(-5\sqrt{3}+2)a-5\sqrt{3}）}\over{2}},{{a-5}\over{2}})
+\\
+\\
+\\
+\\
+
